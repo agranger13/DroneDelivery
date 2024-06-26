@@ -30,3 +30,7 @@ https://github.com/PatelVatsalB21/Ultrasonic-SLAM
 
 #### Controllers
 https://github.com/jvpernis/esp32-ps3/tree/master
+
+### Already done
+https://forum.arduino.cc/t/comment-creer-un-drone/1006269
+https://www.wiki-rennes.fr/index.php?mobileaction=toggle_view_desktop&title=Fabrication_d%27un_quadcopter_autonome
