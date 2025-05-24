@@ -4,8 +4,13 @@ Create an autonomous drone
 ## Introduction
 
 ## Equipments
+- NodeMCU v3
+- MPU6050
+- 4x Brush motors
+- LiPo 3.7v 1000mAh
 
 ## Schemas
+
 
 ## Ressources
 ### Links

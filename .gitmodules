@@ -1,0 +1,6 @@
+[submodule "congenial-potato"]
+	path = congenial-potato
+	url = https://github.com/agranger13/congenial-potato
+[submodule "super-octo-broccoli"]
+	path = super-octo-broccoli
+	url = https://github.com/agranger13/super-octo-broccoli
